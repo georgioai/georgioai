@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I’m Georgio 👋
 
-<!--
-**georgioai/georgioai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student at USEK · Beirut, Lebanon
 
-Here are some ideas to get you started:
+I build full-stack web apps, machine learning models, and desktop systems.
+Currently seeking a summer internship where I can contribute to real products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · JavaScript · Java · C++ · SQL · PHP
+
+**Web:** Node.js · React · React Native · HTML/CSS · REST APIs · EJS
+
+**Databases:** MongoDB · MySQL · SQLite
+
+**Tools:** Git · GitHub Actions · JavaFX · CI/CD · Render
+
+-----
+
+## 🚀 Featured Projects
+
+|Project                                                                 |Description                                                 |Stack                                      |
+|------------------------------------------------------------------------|------------------------------------------------------------|-------------------------------------------|
+|[NextHire]                     |Freelancer platform with role-based auth and CI/CD pipeline |Node.js · MongoDB · SQLite · GitHub Actions|
+
+|[AI Salary Predictor]
+|ML models to predict salaries and classify experience levels|Python · Scikit-learn · Pandas    
+|
+|[Invoice Management System]
+|Desktop app for invoice tracking with real-time CRUD        |JavaFX · MySQL · MVC                       |
+
+-----
+
+## 📬 Contact
+
+- 📧 georgio.jabouibrahim@gmail.com
+- 🔗 [Linkedin] https://www.linkedin.com/in/georgio-abou-ibrahim-27b252254?utm_source=share_via&utm_content=profile&utm_medium=member_ios
